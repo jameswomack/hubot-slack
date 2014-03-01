@@ -6,6 +6,7 @@ This is a [Hubot](http://hubot.github.com/) adapter to use with [Slack](https://
 
 #### Creating a new bot
 
+- `npm install coffee-script -g`
 - `npm install hubot -g`
 - `hubot --create [path_name]`
 - `cd [path_name]`
